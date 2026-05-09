@@ -1,3 +1,5 @@
 flask
 scikit-learn
+genicorn
 numpy
+pandas
