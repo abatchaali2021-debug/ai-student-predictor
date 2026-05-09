@@ -1,3 +1,0 @@
-Flsk
-scikit-Learn
-numpy
